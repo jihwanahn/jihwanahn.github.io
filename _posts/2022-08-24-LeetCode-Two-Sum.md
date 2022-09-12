@@ -2,7 +2,7 @@
 layout: post
 title:  " LeetCode : 1. Two Sum "
 categories: LeetCode
-tag: Problem Solving, LeetCode
+tag: LeetCode
 author: Jihwan Ahn
 ---
 * content
@@ -20,7 +20,6 @@ author: Jihwan Ahn
 <strong>Output:</strong> [0,1]
 <strong>Explanation:</strong> Because nums[0] + nums[1] == 9, we return [0, 1].
 </pre>
-
 
 ### [1] Code (22.08.24)
 
@@ -49,6 +48,7 @@ public:
     }
 };
 ```
+
 ---
 > Review
 
