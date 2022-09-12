@@ -19,6 +19,10 @@ email: k1tstw@tutanota.com
 
 description_footer: ""
 
+# comments
+# two ways to comment, only choose one, and use your own short name
+disqus_shortname: jihwanahn
+
 # Statistic Analysis
 google_analytics_id: UA-33885705-1 # google analytics id
 

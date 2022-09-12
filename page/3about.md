@@ -10,7 +10,7 @@ type: page
 {:toc}
 
 ## Who am i
-
+<!-- 
 * <img src="/assets/img/logo/kakaobank-logo.png" style="max-width: 3%; vertical-align: text-bottom;"> 카카오뱅크에서 BackEnd 개발을 하고 있습니다.
 
   ( 2021.06.07 ~ / [21년 상반기 경력 공채]({{site.url}}/Reviews-of-moving-the-company-to-Kakao-Bank/) )
@@ -373,7 +373,7 @@ type: page
 
 * 동문회 홈페이지 관리
 
----
+--- -->
 
 ## Comments
 
