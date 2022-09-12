@@ -1,7 +1,5 @@
-_site/
 .sass-cache/*
-css/*.map
 .DS_Store
-node_modules/
-.jekyll-metadata
+_site/*
 .jekyll-cache/*
+.jekyll-metadata
