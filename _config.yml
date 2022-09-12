@@ -1,6 +1,5 @@
 # Site settings
-name: "Blog of Jihwan Ahn"
-title: Github
+title: Jihwan's Github
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 # url에 임의의 값을 넣으면
@@ -45,8 +44,8 @@ excerpt_separator: "\n\n\n"
 
 # paginate
 plugins: [jekyll-paginate]
-paginate: 16
-paginate_path: /page:num
+paginate: 6
+# paginate_path: /page:num
 
 future: true
 incremental: false
