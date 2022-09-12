@@ -15,18 +15,18 @@ type: page
 
   ( 2021.06.07 ~ / [21년 상반기 경력 공채]({{site.url}}/Reviews-of-moving-the-company-to-Kakao-Bank/) )
 
-* <img src="/assets/img/logo/line-logo.png" style="max-width: 3%; vertical-align: text-bottom;"> LINE Pay에서 BackEnd 개발을 했습니다.
+* <img src="/assets/img/logo/logo-virtuos.svg" style="max-width: 3%; vertical-align: text-bottom;"> Virtuos에서 게임 개발을 했습니다.
 
   ( 2019.01.02 ~ 2021.06.04 / [18년 하반기 신입 공채]({{site.url}}/18-Second-Half-Line-2st-Interview/) )
+-->
+* <img src="/assets/img/logo/edit.png" style="max-width: 3%; vertical-align: text-bottom;"> : 기록하는 것을 좋아합니다.
 
-* <img src="/assets/img/logo/edit.png" style="max-width: 3%; vertical-align: text-bottom;"> : 기록하는 걸 좋아합니다.
+* <img src="/assets/img/logo/mentoring.png" style="max-width: 4%; vertical-align: text-bottom;"> : 공유하는 것을 좋아합니다.
 
-* <img src="/assets/img/logo/mentoring.png" style="max-width: 4%; vertical-align: text-bottom;"> : 공유하고 알려주는 것을 좋아합니다.
-
-* <img src="/assets/img/logo/book.png" style="max-width: 3%; vertical-align: text-bottom;"> : 꾸준히 공부하는 성실한 개발자입니다.
+* <img src="/assets/img/logo/book.png" style="max-width: 3%; vertical-align: text-bottom;"> : 공부하는 것을 좋아하는 소프트웨어 엔지니어입니다.
 
 * <img src="/assets/img/logo/desktop.png" style="max-width: 3%; vertical-align: text-bottom;"> : 블로그에 보고 듣고 느끼고 배운 걸 남기는 재미로 살아갑니다.
- 
+
 
 
 ---
@@ -35,35 +35,35 @@ type: page
 
 * <img src="/assets/img/logo/github.png" style="max-width: 3%; vertical-align: text-bottom;"> :  [{{site.github_username}}](https://github.com/{{site.github_username}})
 
-* <img src="/assets/img/logo/linkedin.png" style="max-width: 3%; vertical-align: text-bottom;"> : [Kiyong Shin](https://www.linkedin.com/in/{{site.linkedIn_username}})
+* <img src="/assets/img/logo/linkedin.png" style="max-width: 3%; vertical-align: text-bottom;"> : [Jihwan Ahn](https://www.linkedin.com/in/{{site.linkedIn_username}})
 
 * <img src="/assets/img/logo/facebook.png" style="max-width: 3%; vertical-align: text-bottom;"> :  [{{site.facebook_username}}](https://www.facebook.com/{{site.facebook_username}})
 
 * <img src="/assets/img/logo/instagram.png" style="max-width: 3%; vertical-align: text-bottom;"> :  [{{site.insta_username}}](https://www.instagram.com/{{site.insta_username}})
 
-* <img src="/assets/img/logo/kakaotalk.png" style="max-width: 3%; vertical-align: text-bottom;"> : [Kakao Open Chat](https://open.kakao.com/o/sD37fM3)
+* <img src="/assets/img/logo/kakaotalk.png" style="max-width: 3%; vertical-align: text-bottom;"> : [Kakao Open Chat](https://open.kakao.com/o/sb2FM4Ae)
 
-* <img src="/assets/img/logo/email.png" style="max-width: 3%; vertical-align: text-bottom;"> : hello.goodgid@gmail.com
+* <img src="/assets/img/logo/email.png" style="max-width: 3%; vertical-align: text-bottom;"> : k1tstw@tutanota.com
 
-* <img src="/assets/img/logo/itdaa-logo.png" style="max-width: 8%; vertical-align: text-bottom;"> : [멘토링(Mentoring) 클래스](https://www.itdaa.net/mentors/176384)
+<!-- * <img src="/assets/img/logo/itdaa-logo.png" style="max-width: 8%; vertical-align: text-bottom;"> : [멘토링(Mentoring) 클래스](https://www.itdaa.net/mentors/176384) -->
 
 ---
 
 ## Media
 
-* [[2022년] 카카오뱅크 - 대용량 트래픽을 다루는 서버 개발자 이야기]({{site.url}}/2022-Kakaobank-A-story-about-a-server-developer-dealing-with-high-traffic/)
+<!-- * [[2022년] 카카오뱅크 - 대용량 트래픽을 다루는 서버 개발자 이야기]({{site.url}}/2022-Kakaobank-A-story-about-a-server-developer-dealing-with-high-traffic/)
 
 * [[2022년] 카카오뱅크 ESG 지속가능경영보고서 책자에 들어갈 사진 촬영을 하다.]({{site.url}}/2022-Kakaobank-ESG-Book-Model/)
 
 * [[2021년] 카카오뱅크 직원 신분으로 문화일보와 인터뷰를 하다.]({{site.url}}/2021-Kakaobank-Interview)
 
-* [[2020년] LINE 신규 채용 홈페이지 LINER 인터뷰를 진행하다.]({{site.url}}/2020-LINER-Interview)
+* [[2020년] LINE 신규 채용 홈페이지 LINER 인터뷰를 진행하다.]({{site.url}}/2020-LINER-Interview) -->
 
 --- 
 
 ## About Blog
 
-* [2022 1Q Blog 기록하기]({{site.url}}/2022-1Q-Blog)
+<!-- * [2022 1Q Blog 기록하기]({{site.url}}/2022-1Q-Blog)
 
 * [2021 3Q ~ 4Q Blog 기록하기]({{site.url}}/2021-3Q-4Q-Blog)
 
@@ -73,7 +73,7 @@ type: page
 
 * [2020 4Q Blog 기록하기]({{site.url}}/2020-4Q-Blog/)
 
-* [2020 1Q Blog 기록하기]({{site.url}}/2020-1Q-Blog/)
+* [2020 1Q Blog 기록하기]({{site.url}}/2020-1Q-Blog/) -->
 
 
 ---
@@ -90,7 +90,7 @@ type: page
 
 ## OpenSource Contributions
 
-* [[210111] [PR] WooVictory/Ready-For-Tech-Interview - Fix wrong link value #7](https://github.com/WooVictory/Ready-For-Tech-Interview/pull/7)
+<!-- * [[210111] [PR] WooVictory/Ready-For-Tech-Interview - Fix wrong link value #7](https://github.com/WooVictory/Ready-For-Tech-Interview/pull/7)
 
 * [[210115] [LeetCode] Q&A Answer : 105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/discuss/34541/5ms-Java-Clean-Solution-with-Caching/819441)
 
@@ -98,19 +98,19 @@ type: page
 
 * [[210509] [잘못된 강의 내용 제보] 알고리즘 복잡도 뽀개기: 2. 재귀 함수와 마스터 정리](https://www.youtube.com/watch?v=-bm0-k7UeV8&lc=UgwrTcnbIG0Tm9YuoX14AaABAg.9N6nCsB5wYS9N6o4rL8nuY)
 
-* [[210510] [Issue] I want to help newbies who use the karate framework.](https://github.com/intuit/karate/issues/1591)
+* [[210510] [Issue] I want to help newbies who use the karate framework.](https://github.com/intuit/karate/issues/1591) -->
 
 ---
 
 ## Dev Story
 
-* [2022 Dev History]({{site.url}}/2022-Retrospective)
+<!-- * [2022 Dev History]({{site.url}}/2022-Retrospective)
 
 * [2021 Dev History]({{site.url}}/2021-Retrospective)
 
 * [2020 Dev History]({{site.url}}/2020-Retrospective)
 
-* [2019 Dev History]({{site.url}}/2019-Retrospective)
+* [2019 Dev History]({{site.url}}/2019-Retrospective) -->
 
 ---
 
@@ -118,17 +118,13 @@ type: page
 
 ### 2022
 
-* 　08. 05 [[2022년] 카카오뱅크 ESG 지속가능경영보고서 책자에 들어갈 사진 촬영을 하다.]({{site.url}}/2022-Kakaobank-ESG-Book-Model/)
+<!-- * 　08. 05 [[2022년] 카카오뱅크 ESG 지속가능경영보고서 책자에 들어갈 사진 촬영을 하다.]({{site.url}}/2022-Kakaobank-ESG-Book-Model/)
 
-* 　03. 13 [KakaoPay QR 코드 추가]({{site.url}}/KakaoPay-QR-Code) // [Commit : 97518fa](https://github.com/goodGid/goodGid.github.io/pull/2)
-
-* 　03. 13 [Buy me Coffee](https://www.buymeacoffee.com/equEhZO) 제거 // Commit : af16243d
-
-* 　03. 04 ~ 03. 06	[UNITHON 8TH - 유니톤 대회 참여]({{site.url}}/2022-8th-Unithon)
+* 　03. 04 ~ 03. 06	[UNITHON 8TH - 유니톤 대회 참여]({{site.url}}/2022-8th-Unithon) -->
 
 ### 2021
 
-* 　12. 23 [[2021년] 2번째 구글 애드센스(Google Adsense) $100를 돌파하다.]({{site.url}}/2021-Google-Adsense-Reach-100-Dollar)
+<!-- * 　12. 23 [[2021년] 2번째 구글 애드센스(Google Adsense) $100를 돌파하다.]({{site.url}}/2021-Google-Adsense-Reach-100-Dollar)
 
 * 　12. 01 ~ [코드리뷰 멘토링 활동](https://brownycodereview.notion.site/brownycodereview/0d7ab9fcde2c4312abded62c89bbdef3)
 
@@ -142,11 +138,11 @@ type: page
 
 * 　02. 08 [2020 LINE 최다 추천왕(Referral AWARDS)을 수상하다 !]({{site.url}}/2020-Received-Referral-AWARDS-in-LINE-Corparation/)
 
-* 　01. 02 [[LINE] Refresh 휴가를 받다 !]({{site.url}}/LINE-Refresh-Welfare/)
+* 　01. 02 [[LINE] Refresh 휴가를 받다 !]({{site.url}}/LINE-Refresh-Welfare/) -->
 
 ### 2020
 
-* 　12. 15 [LINE 신규 채용 홈페이지 LINER 인터뷰를 진행하다.]({{site.url}}/2020-LINER-Interview)
+<!-- * 　12. 15 [LINE 신규 채용 홈페이지 LINER 인터뷰를 진행하다.]({{site.url}}/2020-LINER-Interview)
 
 * 　11. 10 [Google Adsense : $100를 돌파하다.]({{site.url}}/Google-Adsense-Reach-100-Dollar/)
 
@@ -170,11 +166,11 @@ type: page
 
 * 　01. 13 Start Phone English Speech : 민병철 유폰
 
-* 　01. 02 It's been a year since I worked on **LINE Biz+ Developer**
+* 　01. 02 It's been a year since I worked on **LINE Biz+ Developer** -->
 
 ### 2019
 
-* 　11. 30 [**2019 Dev** 네비게이션]({{site.url}}/2019-Retrospective/) 추가 // Commit : 577d5ee
+<!-- * 　11. 30 [**2019 Dev** 네비게이션]({{site.url}}/2019-Retrospective/) 추가 // Commit : 577d5ee
 
 * 　11. 25 [Daily DevBlog Weekly 1등]({{site.url}}/Daily-Dev-Blog-Weekly/)
 
@@ -190,11 +186,11 @@ type: page
 
 * 　01. 02 Work in **LINE Biz+ Developer**
 
-* 　01. 01 [Dev History]({{site.url}}/2019-Retrospective/)
+* 　01. 01 [Dev History]({{site.url}}/2019-Retrospective/) -->
  
 ### 2018
 
-* 　12. 18 [18 하반기 공채 라인(LINE) 합격]({{site.url}}/18-Second-Half-Line-2st-Interview/)
+<!-- * 　12. 18 [18 하반기 공채 라인(LINE) 합격]({{site.url}}/18-Second-Half-Line-2st-Interview/)
 
 * 　12. 18 [18 하반기 공채 삼성전자 무선사업부 합격]({{site.url}}/18-Second-Half-Samsung-Electronics-Interview/)
 
@@ -238,11 +234,11 @@ type: page
 
 * 　01. 17 SK T아카데미 Docker Seminar
 
-* 　01. 01 ~ 01. 13	App Jam Server Part
+* 　01. 01 ~ 01. 13	App Jam Server Part -->
 
 ### 2017
 
-* 　12. 23 [Open Insight](https://goodgid.github.io/Open-Insight/)
+<!-- * 　12. 23 [Open Insight](https://goodgid.github.io/Open-Insight/)
 
 * 　12. 14 ~ 12. 15 [해커톤 멘토링](https://goodgid.github.io/Mentoring-GHAS/)
 
@@ -274,26 +270,26 @@ type: page
 
 * 　04. 27 ~ 04. 28	[Key PlatForm](https://goodgid.github.io/KeyPlatform/)
 
-* 　02. 04 연탄봉사 	까리타스봉사단	 연탄 2000장 운반
+* 　02. 04 연탄봉사 	까리타스봉사단	 연탄 2000장 운반 -->
 
 ### 2016
 
-* 　12. 01 ~  17. 06. 01 A.I Lab 	C# - WPF Develop	
+<!-- * 　12. 01 ~  17. 06. 01 A.I Lab 	C# - WPF Develop	
 
 * 　12. 24 ~ 17. 01. 07 App Jam iOS Develop 우수상 수상 ( Supported by Naver D2 )
 
-* 　12. 16 ~ 17. 02. 28 Clinic Develop Android + Web ( Jquery + Node.js )
+* 　12. 16 ~ 17. 02. 28 Clinic Develop Android + Web ( Jquery + Node.js ) -->
 
 
 ### 2014 
 
-* 　14. 07 ~ 16. 04. 13 [S/W 관리병](https://goodgid.github.io/SW-Management-Soldier/)으로 국방부/합참 근무 - Web Monitoring System 개발
+<!-- * 　14. 07 ~ 16. 04. 13 [S/W 관리병](https://goodgid.github.io/SW-Management-Soldier/)으로 국방부/합참 근무 - Web Monitoring System 개발
 
-* 　학술 연구 장학생
+* 　학술 연구 장학생 -->
 
 ---
 
-## Awards
+<!-- ## Awards
 
 * 　18. 12. 17 [SKT X 한국관광공사 앱 공모전 장려상 수상]({{site.url}}/2018-Korea-Tour-App-Competition/)
 
@@ -307,12 +303,12 @@ type: page
 
 * 　17. 01. 07 App Jam iOS Develop 우수상 수상
 
-* 　16. 10. 01 ACM-ICPC 교내 우수상
+* 　16. 10. 01 ACM-ICPC 교내 우수상 -->
 
 
 ---
 
-## Certificate
+<!-- ## Certificate
 
 1. 정보 처리 기사 (18. 08. 17) - 18202050951A
 
@@ -328,13 +324,13 @@ type: page
 
 1. KBS 한국어 자격증 (15. 09 .12)
 
-1. 정보 처리 산업 기사 (15. 06. 05) - 15631000141Z
+1. 정보 처리 산업 기사 (15. 06. 05) - 15631000141Z -->
 
 ---
 
 ## Travel
 
-* 　2019. 10. 06 ~ 10. 09	Geoje Island, Tongyeong, Korea
+<!-- * 　2019. 10. 06 ~ 10. 09	Geoje Island, Tongyeong, Korea
 
 * 　2019. 08. 11 ~ 08. 17	Kota Kinabalu, Malaysia
 
@@ -360,13 +356,13 @@ type: page
 
 * 　2014. ??. ?? ~ ??. ?? China
 
-* 　~ 2014 North of Korea
+* 　~ 2014 North of Korea -->
 
 
 ---
 
 ## E.T.C
-
+<!--
 * 3D Print & IoT Camp 1박2일
 
 * 커뮤니티 운영 장학금 기부
