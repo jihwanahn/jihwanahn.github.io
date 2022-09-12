@@ -9,7 +9,7 @@ type: page
 * content
 {:toc}
 
-## Who am i
+## Who am I
 <!-- 
 * <img src="/assets/img/logo/keti-logo.png" style="max-width: 3%; vertical-align: text-bottom;"> 카카오뱅크에서 BackEnd 개발을 하고 있습니다.
 
@@ -47,9 +47,7 @@ type: page
 
 * <img src="/assets/img/logo/kakaotalk.png" style="max-width: 3%; vertical-align: text-bottom;"> : [Kakao Open Chat](https://open.kakao.com/o/sb2FM4Ae)
 
-* <img src="/assets/img/logo/email.png" style="max-width: 3%; vertical-align: text-bottom;"> : mailto:k1tstw@tutanota.com
-
-<!-- * <img src="/assets/img/logo/itdaa-logo.png" style="max-width: 8%; vertical-align: text-bottom;"> : [멘토링(Mentoring) 클래스](https://www.itdaa.net/mentors/176384) -->
+* <img src="/assets/img/logo/email.png" style="max-width: 3%; vertical-align: text-bottom;"> : [Email](mailto:k1tstw@tutanota.com)
 
 ---
 
