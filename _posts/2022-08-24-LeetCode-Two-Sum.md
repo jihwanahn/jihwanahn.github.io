@@ -23,6 +23,8 @@ author: Jihwan Ahn
 
 ### [1] Code (22.08.24)
 
+* Solved *
+
 ``` cpp
 // Time: 348 ms (37.54%)
 // Space: 10.3 MB (75.73%)
