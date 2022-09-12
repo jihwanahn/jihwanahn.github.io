@@ -11,13 +11,17 @@ type: page
 
 ## Who am i
 <!-- 
-* <img src="/assets/img/logo/kakaobank-logo.png" style="max-width: 3%; vertical-align: text-bottom;"> 카카오뱅크에서 BackEnd 개발을 하고 있습니다.
+* <img src="/assets/img/logo/keti-logo.png" style="max-width: 3%; vertical-align: text-bottom;"> 카카오뱅크에서 BackEnd 개발을 하고 있습니다.
 
-  ( 2021.06.07 ~ / [21년 상반기 경력 공채]({{site.url}}/Reviews-of-moving-the-company-to-Kakao-Bank/) )
+  ( 2022.04.01 ~ / [21년 상반기 경력 공채]({{site.url}}/Reviews-of-moving-the-company-to-Kakao-Bank/) )
 
 * <img src="/assets/img/logo/logo-virtuos.svg" style="max-width: 3%; vertical-align: text-bottom;"> Virtuos에서 게임 개발을 했습니다.
 
-  ( 2019.01.02 ~ 2021.06.04 / [18년 하반기 신입 공채]({{site.url}}/18-Second-Half-Line-2st-Interview/) )
+  ( 2021.06.01 ~ 2022.02.28 / [18년 하반기 신입 공채]({{site.url}}/18-Second-Half-Line-2st-Interview/) )
+
+  * <img src="/assets/img/logo/logo-virtuos.svg" style="max-width: 3%; vertical-align: text-bottom;"> Virtuos에서 게임 개발을 했습니다.
+
+  ( 2020.06.01 ~ 2021.05.31 / [18년 하반기 신입 공채]({{site.url}}/18-Second-Half-Line-2st-Interview/) )
 -->
 * <img src="/assets/img/logo/edit.png" style="max-width: 3%; vertical-align: text-bottom;"> : 기록하는 것을 좋아합니다.
 
@@ -37,9 +41,9 @@ type: page
 
 * <img src="/assets/img/logo/linkedin.png" style="max-width: 3%; vertical-align: text-bottom;"> : [Jihwan Ahn](https://www.linkedin.com/in/{{site.linkedIn_username}})
 
-* <img src="/assets/img/logo/facebook.png" style="max-width: 3%; vertical-align: text-bottom;"> :  [{{site.facebook_username}}](https://www.facebook.com/{{site.facebook_username}})
+<!-- * <img src="/assets/img/logo/facebook.png" style="max-width: 3%; vertical-align: text-bottom;"> :  [{{site.facebook_username}}](https://www.facebook.com/{{site.facebook_username}}) -->
 
-* <img src="/assets/img/logo/instagram.png" style="max-width: 3%; vertical-align: text-bottom;"> :  [{{site.insta_username}}](https://www.instagram.com/{{site.insta_username}})
+<!-- * <img src="/assets/img/logo/instagram.png" style="max-width: 3%; vertical-align: text-bottom;"> :  [{{site.insta_username}}](https://www.instagram.com/{{site.insta_username}}) -->
 
 * <img src="/assets/img/logo/kakaotalk.png" style="max-width: 3%; vertical-align: text-bottom;"> : [Kakao Open Chat](https://open.kakao.com/o/sb2FM4Ae)
 
@@ -79,9 +83,9 @@ type: page
 ---
 
 
-## Writing Attitude
+<!-- ## Writing Attitude
 
-{% include opinion.html %}
+{% include opinion.html %} -->
 
 
 
