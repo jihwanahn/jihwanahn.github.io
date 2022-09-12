@@ -43,6 +43,7 @@ excerpt_separator: "\n\n\n"
 plugins: [jekyll-paginate]
 paginate: 16
 paginate_path: /page:num
-# future: true
-# incremental: false
-# regenerate: true
+
+future: true
+incremental: false
+regenerate: true
