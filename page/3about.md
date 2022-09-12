@@ -49,7 +49,7 @@ type: page
 ---
 
 ## Media
-[[2021년]구글이 픽한 '버추어스', "게임 개발하면 우리가 생각나길"] (https://www.thisisgame.com/webzine/nboard/5/?n=135459/)
+[[2021년]구글이 픽한 '버추어스', "게임 개발하면 우리가 생각나길"](https://www.thisisgame.com/webzine/nboard/5/?n=135459/)
 
 
 
