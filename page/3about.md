@@ -54,7 +54,8 @@ type: page
 ---
 
 ## Media
-[[2021년]] 구글이 픽한 '버추어스', "게임 개발하면 우리가 생각나길" ({{site.url}}/https://www.thisisgame.com/webzine/nboard/5/?n=135459/)
+[[2021년]구글이 픽한 '버추어스', "게임 개발하면 우리가 생각나길"] ({{site.url}}/https://www.thisisgame.com/webzine/nboard/5/?n=135459/)
+
 <!-- * [[2022년] 카카오뱅크 - 대용량 트래픽을 다루는 서버 개발자 이야기]({{site.url}}/2022-Kakaobank-A-story-about-a-server-developer-dealing-with-high-traffic/)
 
 * [[2022년] 카카오뱅크 ESG 지속가능경영보고서 책자에 들어갈 사진 촬영을 하다.]({{site.url}}/2022-Kakaobank-ESG-Book-Model/)
