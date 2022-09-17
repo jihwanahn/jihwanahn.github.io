@@ -34,6 +34,9 @@ sass:
   sass_dir: _sass
   style: compressed
 
+# port (default = 4000)
+port: 4000
+
 # url
 category_dir: category/
 tag_dir: tag/
